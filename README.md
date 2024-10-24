@@ -1,6 +1,6 @@
 # LinkedIn Job Automation Bot
 
-Este projeto de Inteligência Artificial com Python aplica conceitos de Machine Learning para criar um modelo simples de regressão linear, capaz de prever o preço de uma pizza com base em seu diâmetro. Este projeto de Inteligência Artificial com Python aplica conceitos de Machine Learning para criar um modelo simples de regressão linear, capaz de prever o preço de uma pizza com base em seu diâmetro. O projeto foi desenvolvido com o auxílio da videoaula do canal do YouTube Empowerdata | Python.
+Este projeto de Inteligência Artificial com Python aplica conceitos de Machine Learning para criar um modelo simples de regressão linear, capaz de prever o preço de uma pizza com base em seu diâmetro. O projeto foi desenvolvido com o auxílio da videoaula do canal do YouTube Empowerdata | Python.
 
 Funcionalidades:
  - Treinamento de modelo: Usa a biblioteca Scikit-Learn para treinar um modelo de regressão linear com base em dados de diâmetro e preço de pizzas.
